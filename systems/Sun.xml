@@ -59,10 +59,10 @@
 			<lastupdate>12/01/01</lastupdate>
 			<satellite>
 				<name>Moon</name>
-				<radius unit="km">1737.1</radius>
-				<semimajoraxis unit="km">384400</semimajoraxis>
-				<eccentricty>0.0554</eccentricty>
-				<pericenter>318.15</pericenter>
+				<radius>0.024847</radius>
+				<semimajoraxis>0.002570</semimajoraxis>
+				<eccentricity>0.0554</eccentricity>
+				<periastron>318.15</periastron>
 				<longitude>135.27</longitude>
 				<inclination>5.16</inclination>
 				<ascendingnode>125.08</ascendingnode>
@@ -88,10 +88,10 @@
 			<lastupdate>12/01/01</lastupdate>
 			<satellite>
 				<name>Deimos</name>
-				<radius unit="km">6.2</radius>
-				<semimajoraxis unit="km">23458</semimajoraxis>
+				<radius>0.000089</radius>
+				<semimajoraxis>0.000157</semimajoraxis>
 				<eccentricity>0.0002</eccentricity>
-				<pericenter>260.729</pericenter>
+				<periastron>260.729</periastron>
 				<longitude>325.329</longitude>
 				<inclination>1.788</inclination>
 				<ascendingnode>24.525</ascendingnode>
@@ -100,10 +100,10 @@
 			</satellite>
 			<satellite>
 				<name>Phobos</name>
-				<radius unit="km">11.1</radius>
-				<semimajoraxis unit="km">9376</semimajoraxis>
+				<radius>0.000159</radius>
+				<semimajoraxis>0.000063</semimajoraxis>
 				<eccentricity>0.0151</eccentricity>
-				<pericenter>150.057</pericenter>
+				<periastron>150.057</periastron>
 				<longitude>91.059</longitude>
 				<inclination>1.075</inclination>
 				<ascendingnode>207.784</ascendingnode>
@@ -129,10 +129,10 @@
 			<lastupdate>12/01/01</lastupdate>
 			<satellite>
 				<name>Callisto</name>
-				<radius unit="km">2410.3</radius>
-				<semimajoraxis unit="km">1882700</semimajoraxis>
-				<eccentricty>0.0074</eccentricty>
-				<pericenter>52.643</pericenter>
+				<radius>0.034477</radius>
+				<semimajoraxis>0.012585</semimajoraxis>
+				<eccentricity>0.0074</eccentricity>
+				<periastron>52.643</periastron>
 				<longitude>181.408</longitude>
 				<inclination>0.192</inclination>
 				<ascendingnode>298.848</ascendingnode>
@@ -141,10 +141,10 @@
 			</satellite>
 			<satellite>
 				<name>Europa</name>
-				<radius unit="km">1561</radius>
-				<semimajoraxis unit="km">671100</semimajoraxis>
+				<radius>0.022328</radius>
+				<semimajoraxis>0.004486</semimajoraxis>
 				<eccentricity>0.0094</eccentricity>
-				<pericenter>88.970</pericenter>
+				<periastron>88.970</periastron>
 				<longitude>171.016</longitude>
 				<inclination>0.466</inclination>
 				<ascendingnode>219.106</ascendingnode>
@@ -153,8 +153,8 @@
 			</satellite>
 			<satellite>
 				<name>Ganymede</name>
-				<radius unit="km">2631.2</radius>
-				<semimajoraxis unit="km">1070400</semimajoraxis>
+				<radius>0.037636</radius>
+				<semimajoraxis>0.007155</semimajoraxis>
 				<eccentricity>0.0013</eccentricity>
 				<periastron>192.417</periastron>
 				<longitude>317.540</longitude>
@@ -165,15 +165,15 @@
 			</satellite>
 			<satellite>
 				<name>Io</name>
-				<radius unit="km">1821.5</radius>
-				<semimajoraxis unit="km">421800</semimajoraxis>
+				<radius>0.026055</radius>
+				<semimajoraxis>0.002820</semimajoraxis>
 				<eccentricity>0.0041</eccentricity>
-				<pericenter>84.129</pericenter>
+				<periastron>84.129</periastron>
 				<longitude>342.021</longitude>
 				<inclination>0.036</inclination>
 				<ascendingnode>43.977</ascendingnode>
 				<period>1.769</period>
-				<title>0.0</title>
+				<tilt>0.0</tilt>
 			</satellite>
 		</planet>
 		<planet>
@@ -194,8 +194,8 @@
 			<lastupdate>12/01/01</lastupdate>
 			<satellite>
 				<name>Dione</name>
-				<radius unit="km">561.6</radius>
-				<semimajoraxis unit="km">377415</semimajoraxis>
+				<radius>0.008033</radius>
+				<semimajoraxis>0.002523</semimajoraxis>
 				<eccentricity>0.0022</eccentricity>
 				<periastron>284.315</periastron>
 				<longitude>322.232</longitude>
@@ -206,10 +206,10 @@
 			</satellite>
 			<satellite>
 				<name>Enceladus</name>
-				<radius unit="km">252.1</radius>
-				<semimajoraxis unit="km">238042</semimajoraxis>
+				<radius>0.003606</radius>
+				<semimajoraxis>0.001591</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<pericenter>0.076</pericenter>
+				<periastron>0.076</periastron>
 				<longitude>199.686</longitude>
 				<inclination>0.003</inclination>
 				<ascendingnode>342.507</ascendingnode>
@@ -218,8 +218,8 @@
 			</satellite>
 			<satellite>
 				<name>Iapetus</name>
-				<radius unit="km">735.6</radius>
-				<semimajoraxis unit="km">3560854</semimajoraxis>
+				<radius>0.010522</radius>
+				<semimajoraxis>0.023803</semimajoraxis>
 				<eccentricity>0.0293</eccentricity>
 				<periastron>271.606</periastron>
 				<longitude>201.789</longitude>
@@ -230,10 +230,10 @@
 			</satellite>
 			<satellite>
 				<name>Rhea</name>
-				<radius unit="km">764.1</radius>
-				<semimajoraxis unit="km">527068</semimajoraxis>
+				<radius>0.010930</radius>
+				<semimajoraxis>0.003523</semimajoraxis>
 				<eccentricity>0.0002</eccentricity>
-				<pericenter>241.619</pericenter>
+				<periastron>241.619</periastron>
 				<longitude>179.781</longitude>
 				<inclination>0.333</inclination>
 				<ascendingnode>351.042</ascendingnode>
@@ -242,10 +242,10 @@
 			</satellite>
 			<satellite>
 				<name>Tethys</name>
-				<radius unit="km">533</radius>
-				<semimajoraxis unit="km">294672</semimajoraxis>
+				<radius>0.007624</radius>
+				<semimajoraxis>0.001970</semimajoraxis>
 				<eccentricity>0.0001</eccentricity>
-				<pericenter>45.202</pericenter>
+				<periastron>45.202</periastron>
 				<longitude>243.367</longitude>
 				<inclination>1.091</inclination>
 				<ascendingnode>259.842</ascendingnode>
@@ -254,10 +254,10 @@
 			</satellite>
 			<satellite>
 				<name>Titan</name>
-				<radius unit="km">2576</radius>
-				<semimajoraxis unit="km">1221865</semimajoraxis>
+				<radius>0.036847</radius>
+				<semimajoraxis>0.008168</semimajoraxis>
 				<eccentricity>0.0288</eccentricity>
-				<pericenter>180.532</pericenter>
+				<periastron>180.532</periastron>
 				<longitude>163.310</longitude>
 				<inclination>0.306</inclination>
 				<ascendingnode>28.060</ascendingnode>
@@ -284,10 +284,10 @@
 			<discoveryyear>1781</discoveryyear>
 			<satellite>
 				<name>Ariel</name>
-				<radius unit="km">578.9</radius>
-				<semimajoraxis unit="km">190900</semimajoraxis>
+				<radius>0.008281</radius>
+				<semimajoraxis>0.001276</semimajoraxis>
 				<eccentricity>0.0012</eccentricity>
-				<pericenter>115.349</pericenter>
+				<periastron>115.349</periastron>
 				<longitude>39.481</longitude>
 				<inclination>0.041</inclination>
 				<ascendingnode>22.394</ascendingnode>
@@ -295,10 +295,10 @@
 			</satellite>
 			<satellite>
 				<name>Miranda</name>
-				<radius unit="km">235.8</radius>
-				<semimajoraxis unit="km">129900</semimajoraxis>
+				<radius>0.003373</radius>
+				<semimajoraxis>0.000868</semimajoraxis>
 				<eccentricity>0.0013</eccentricity>
-				<pericenter>68.312</pericenter>
+				<periastron>68.312</periastron>
 				<longitude>311.330</longitude>
 				<inclination>4.338</inclination>
 				<ascendingnode>326.438</ascendingnode>
@@ -306,10 +306,10 @@
 			</satellite>
 			<satellite>
 				<name>Oberon</name>
-				<radius unit="km">761.4</radius>
-				<semimajoraxis unit="km">583500</semimajoraxis>
+				<radius>0.010891</radius>
+				<semimajoraxis>0.003900</semimajoraxis>
 				<eccentricity>0.0014</eccentricity>
-				<pericenter>104.400</pericenter>
+				<periastron>104.400</periastron>
 				<longitude>283.088</longitude>
 				<inclination>0.068</inclination>
 				<ascendingnode>279.771</ascendingnode>
@@ -317,10 +317,10 @@
 			</satellite>
 			<satellite>
 				<name>Titania</name>
-				<radius unit="km">788.9</radius>
-				<semimajoraxis unit="km">436300</semimajoraxis>
+				<radius>0.011284</radius>
+				<semimajoraxis>0.002916</semimajoraxis>
 				<eccentricity>0.0011</eccentricity>
-				<pericenter>284.400</pericenter>
+				<periastron>284.400</periastron>
 				<longitude>24.614</longitude>
 				<inclination>0.079</inclination>
 				<ascendingnode>99.771</ascendingnode>
@@ -329,10 +329,10 @@
 			</satellite>
 			<satellite>
 				<name>Umbriel</name>
-				<radius unit="km">584.7</radius>
-				<semimajoraxis unit="km">266000</semimajoraxis>
+				<radius>0.008363</radius>
+				<semimajoraxis>0.001778</semimajoraxis>
 				<eccentricity>0.0039</eccentricity>
-				<pericenter>84.709</pericenter>
+				<periastron>84.709</periastron>
 				<longitude>12.469</longitude>
 				<inclination>0.128</inclination>
 				<ascendingnode>33.485</ascendingnode>
@@ -358,14 +358,14 @@
 			<discoveryyear>1846</discoveryyear>
 			<satellite>
 				<name>Triton</name>
-				<radius unit="km">1353.4</radius>
-				<semimajoraxis unit="km">354759</semimajoraxis>
+				<radius>0.019359</radius>
+				<semimajoraxis>0.002371</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<pericenter>66.142</pericenter>
+				<periastron>66.142</periastron>
 				<longitude>352.257</longitude>
 				<inclination>156.865</inclination>
 				<ascendingnode>177.608</ascendingnode>
-				<title>0.010</title>
+				<tilt>0.010</tilt>
 				<period>5.877</period>
 			</satellite>
 		</planet>
@@ -388,10 +388,10 @@
 			<discoveryyear>1930</discoveryyear>
 			<satellite>
 				<name>Charon</name>
-				<radius unit="km">603.5</radius>
-				<semimajoraxis unit="km">17536</semimajoraxis>
+				<radius>0.008632</radius>
+				<semimajoraxis>0.000117</semimajoraxis>
 				<eccentricity>0.0022</eccentricity>
-				<pericenter>71.255</pericenter>
+				<periastron>71.255</periastron>
 				<longitude>147.848</longitude>
 				<inclination>0.001</inclination>
 				<ascendingnode>85.187</ascendingnode>

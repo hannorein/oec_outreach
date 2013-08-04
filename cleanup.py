@@ -65,7 +65,8 @@ validtags = [
     "magH", "magR", "magB", "magK", "magI", "distance",
     "longitude", "imagedescription", "image", "age", "declination", "rightascension",
     "metallicity", "inclination", "spectraltype", "binary", "planet", "periastron", "star",
-    "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", "rossitermclaughlin"]
+    "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", "rossitermclaughlin",
+    "satellite", "tilt"]
 validattributes = [
     "error",
     "errorplus",
@@ -74,7 +75,7 @@ validattributes = [
     "upperlimit",
     "lowerlimit"]
 validdiscoverymethods = ["RV", "transit", "timing", "imaging", "microlensing"]
-tagsallowmultiple = ["list","name","planet","star","binary"]
+tagsallowmultiple = ["list","name","planet","star","binary","satellite"]
 
 def checkforvalidtags(elem):
     problematictag = None
@@ -149,6 +150,10 @@ for filename in glob.glob("systems*/*.xml"):
         convertunit(mass, 0.0031457007)
     for radius in root.findall(".//planet/radius[@unit='re']"):
         convertunit(radius, 0.091130294)
+    for radius in root.findall(".//satellite/radius[@unit='km']"):
+        convertunit(radius, 1.4303901e-05)
+    for semimajoraxis in root.findall(".//satellite/semimajoraxis[@unit='km']"):
+        convertunit(semimajoraxis, 6.6845871e-09)
     for angle in root.findall(".//*[@unit='rad']"):
         convertunit(angle, 57.2957795130823)
 
