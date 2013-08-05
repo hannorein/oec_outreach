@@ -199,7 +199,7 @@
 				<eccentricity>0.0022</eccentricity>
 				<periastron>284.315</periastron>
 				<longitude>322.232</longitude>
-				<inclination>0.028</inclination>
+				<inclination>26.758000</inclination>
 				<ascendingnode>290.415</ascendingnode>
 				<period>2.737</period>
 				<tilt>0.005</tilt>
@@ -211,7 +211,7 @@
 				<eccentricity>0.0</eccentricity>
 				<periastron>0.076</periastron>
 				<longitude>199.686</longitude>
-				<inclination>0.003</inclination>
+				<inclination>26.733000</inclination>
 				<ascendingnode>342.507</ascendingnode>
 				<period>1.370</period>
 				<tilt>0.002</tilt>
@@ -223,7 +223,7 @@
 				<eccentricity>0.0293</eccentricity>
 				<periastron>271.606</periastron>
 				<longitude>201.789</longitude>
-				<inclination>8.298</inclination>
+				<inclination>35.028000</inclination>
 				<ascendingnode>81.105</ascendingnode>
 				<period>79.33</period>
 				<tilt>15.210</tilt>
@@ -235,7 +235,7 @@
 				<eccentricity>0.0002</eccentricity>
 				<periastron>241.619</periastron>
 				<longitude>179.781</longitude>
-				<inclination>0.333</inclination>
+				<inclination>27.063000</inclination>
 				<ascendingnode>351.042</ascendingnode>
 				<period>4.518</period>
 				<tilt>0.036</tilt>
@@ -247,7 +247,7 @@
 				<eccentricity>0.0001</eccentricity>
 				<periastron>45.202</periastron>
 				<longitude>243.367</longitude>
-				<inclination>1.091</inclination>
+				<inclination>27.821000</inclination>
 				<ascendingnode>259.842</ascendingnode>
 				<period>1.888</period>
 				<tilt>0.001</tilt>
@@ -259,7 +259,7 @@
 				<eccentricity>0.0288</eccentricity>
 				<periastron>180.532</periastron>
 				<longitude>163.310</longitude>
-				<inclination>0.306</inclination>
+				<inclination>27.036000</inclination>
 				<ascendingnode>28.060</ascendingnode>
 				<period>15.95</period>
 				<tilt>0.629</tilt>
