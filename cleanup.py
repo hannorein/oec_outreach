@@ -146,7 +146,7 @@ for filename in glob.glob("systems*/*.xml"):
 	print "Converted range to errorbars in tag '"+elem.tag+"'." 
 
     # Convert units to default units
-    for mass in root.findall(".//planet/mass[@unit='me']"):
+    for mass in root.findall(".//mass[@unit='me']"):
         convertunit(mass, 0.0031457007)
     for radius in root.findall(".//planet/radius[@unit='re']"):
         convertunit(radius, 0.091130294)
