@@ -87,32 +87,6 @@
 			<tilt>25.19</tilt>
 			<description>Mars is named after the Roman god of war and often called the red planet.</description>
 			<lastupdate>12/01/01</lastupdate>
-			<satellite>
-				<name>Deimos</name>
-				<mass>7.7928507e-13</mass>
-				<radius>0.000089</radius>
-				<semimajoraxis>0.000157</semimajoraxis>
-				<eccentricity>0.0002</eccentricity>
-				<periastron>260.729</periastron>
-				<longitude>325.329</longitude>
-				<inclination>1.788</inclination>
-				<ascendingnode>24.525</ascendingnode>
-				<period>1.2624</period>
-				<tilt>0.889</tilt>
-			</satellite>
-			<satellite>
-				<name>Phobos</name>
-				<mass>5.6340204e-12</mass>
-				<radius>0.000159</radius>
-				<semimajoraxis>0.000063</semimajoraxis>
-				<eccentricity>0.0151</eccentricity>
-				<periastron>150.057</periastron>
-				<longitude>91.059</longitude>
-				<inclination>1.075</inclination>
-				<ascendingnode>207.784</ascendingnode>
-				<period>0.3189</period>
-				<tilt>0.009</tilt>
-			</satellite>
 		</planet>
 		<planet>
 			<name>Jupiter</name>
