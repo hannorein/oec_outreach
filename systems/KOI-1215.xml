@@ -23,7 +23,6 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/09/13</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<new>1</new>
 		</planet>
 		<planet>
 			<name>KOI-1215 c</name>
@@ -36,7 +35,6 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/09/13</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<new>1</new>
 		</planet>
 	</star>
 </system>
