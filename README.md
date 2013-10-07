@@ -46,6 +46,8 @@ The following table shows all the possible tags in the Open Exoplanet Catalogue.
 | `magH`		| `binary`, `star` | H magnitude |   |
 | `magK`		| `binary`, `star` | K magnitude |   |
 | | | | |
+| `image` 		| `planet` | Filename without extension of a picture of the planet. File is stored in the images directory. |   |
+| `imagedescription`	| `planet` | Short description and copyright information of the image. |   |
 | `discoverymethod` 	| `planet` | Discovery method of the planet. For example: timing, RV, transit, imaging.  |   |
 | `description` 	| `planet` | Short description of the planet  |   |
 | `discoveryyear`	| `planet` | Year of the planet's discovery | yyyy  |
