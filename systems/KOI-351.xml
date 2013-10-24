@@ -29,6 +29,7 @@
 			<lastupdate>13/10/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independend groups have found the transits in the Kepler data, one of them being citizen scienctists (PlanetHunters.org).</description>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>KOI-351 c</name>
@@ -44,6 +45,7 @@
 			<lastupdate>13/10/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independend groups have found the transits in the Kepler data, one of them being citizen scienctists (PlanetHunters.org).</description>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>KOI-351 f</name>
@@ -59,6 +61,7 @@
 			<lastupdate>13/10/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independend groups have found the transits in the Kepler data, one of them being citizen scienctists (PlanetHunters.org).</description>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>KOI-351 e</name>
@@ -74,6 +77,7 @@
 			<lastupdate>13/10/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independend groups have found the transits in the Kepler data, one of them being citizen scienctists (PlanetHunters.org).</description>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>KOI-351 d</name>
@@ -89,6 +93,7 @@
 			<lastupdate>13/10/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independend groups have found the transits in the Kepler data, one of them being citizen scienctists (PlanetHunters.org).</description>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>KOI-351 g</name>
@@ -104,6 +109,7 @@
 			<lastupdate>13/10/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independend groups have found the transits in the Kepler data, one of them being citizen scienctists (PlanetHunters.org).</description>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>KOI-351 h</name>
@@ -119,6 +125,7 @@
 			<lastupdate>13/10/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independend groups have found the transits in the Kepler data, one of them being citizen scienctists (PlanetHunters.org).</description>
+			<new>1</new>
 		</planet>
 	</star>
 </system>
