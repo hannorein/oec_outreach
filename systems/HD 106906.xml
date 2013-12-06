@@ -19,6 +19,11 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>13/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<image>HD106906</image>
+			<imagedescription>Discovery image of HD 106906 b in thermal infrared light from MagAO/Clio2. The images has been processed to remove the bright light from the host star. 
+
+Image credit: Vanessa Bailey</imagedescription>
+			<new>1</new>
 		</planet>
 	</star>
 </system>
