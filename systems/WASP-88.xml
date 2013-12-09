@@ -21,6 +21,7 @@
 			<description>WASP-88 b is a Hot Jupiter discovered by the WASP transit survey. The planet joins a handful of planets with super-inflated radii.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/12/09</lastupdate>
+			<new>1</new>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
