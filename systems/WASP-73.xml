@@ -23,7 +23,6 @@
 			<description>The planet WASP-73 b has a high mean density. This suggests it is enriched in heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/12/09</lastupdate>
-			<new>1</new>
 			<discoveryyear>2013</discoveryyear>
 			<transittime errorminus="0.0011" errorplus="0.0011" unit="HJD">2456128.7063</transittime>
 		</planet>
