@@ -14,7 +14,6 @@
 			<name>KOI-1563.01</name>
 			<name>KIC 5219234 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.028195" />
 			<radius>0.328069</radius>
 			<temperature>833</temperature>
 			<period>5.487006</period>
@@ -30,7 +29,6 @@
 			<name>KOI-1563.02</name>
 			<name>KIC 5219234 c</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.024109" />
 			<radius>0.300730</radius>
 			<temperature>729</temperature>
 			<period>8.291130</period>

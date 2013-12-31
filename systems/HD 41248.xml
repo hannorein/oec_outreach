@@ -34,7 +34,6 @@
 			<mass errorminus="0.01572850" errorplus="0.02044705">0.02705302</mass>
 			<period errorminus="0.130" errorplus="0.120">25.648</period>
 			<semimajoraxis errorminus="0.014" errorplus="0.020">0.172</semimajoraxis>
-			<eccentricity upperlimit="0.18" />
 			<description>The planetary system HD 41248 consists of at least two planets. Both planets are most likely Super-Earths. Their period ratio is close to the integer ratio 7:5, a second order commensurability.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>13/04/30</lastupdate>
