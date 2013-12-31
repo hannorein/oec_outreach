@@ -37,7 +37,6 @@
 			<name>KIC 11904151 c</name>
 			<name>2MASS J19024305+5014286 c</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.062914013" />
 			<radius errorminus="0.0052" errorplus="0.0047">0.2029471</radius>
 			<period errorminus="0.00076" errorplus="0.00065">42.29485</period>
 			<semimajoraxis errorminus="0.0053" errorplus="0.0044">0.2407</semimajoraxis>

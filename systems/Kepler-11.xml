@@ -118,11 +118,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<planet>
 			<name>Kepler-11 g</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.078643" />
 			<radius errorminus="0.001823" errorplus="0.001823">0.303464</radius>
 			<period errorminus="0.0006" errorplus="0.0010">118.3807</period>
 			<semimajoraxis>0.466</semimajoraxis>
-			<eccentricity upperlimit="0.15" />
 			<inclination errorminus="0.023" errorplus="0.01">89.89</inclination>
 			<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455120.2901</transittime>
 			<discoverymethod>transit</discoverymethod>

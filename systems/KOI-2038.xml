@@ -17,7 +17,6 @@
 			<name>KOI-2038.01</name>
 			<name>KIC 8950568 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.046522" />
 			<radius>0.181349</radius>
 			<temperature>814</temperature>
 			<period>8.305992</period>
@@ -33,7 +32,6 @@
 			<name>KOI-2038.02</name>
 			<name>KIC 8950568 c</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.059422" />
 			<radius>0.200487</radius>
 			<temperature>712</temperature>
 			<period>12.512170</period>

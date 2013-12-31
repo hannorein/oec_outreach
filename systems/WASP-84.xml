@@ -28,7 +28,6 @@
 			<period errorminus="0.0000070" errorplus="0.0000070">8.5234865</period>
 			<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2456286.10583</transittime>
 			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0771</semimajoraxis>
-			<eccentricity upperlimit="0.077" />
 			<inclination errorminus="0.05" errorplus="0.05">88.368</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
