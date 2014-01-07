@@ -27,6 +27,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/01/07</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<new>1</new>
 			<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmd yet.</description>
 		</planet>
 		<planet>
@@ -42,6 +43,7 @@
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/01/07</lastupdate>
+			<new>1</new>
 			<discoveryyear>2014</discoveryyear>
 			<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmd yet.</description>
 		</planet>
