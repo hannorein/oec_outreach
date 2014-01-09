@@ -25,6 +25,7 @@
 			<description>HATS-5 is a transiting Hot Saturn. It was discovered by the HAT-South survey. The bright and quiet G-type host star make this planet an ideal candidate for follow-up observations.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/01/09</lastupdate>
+			<new>1</new>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>
