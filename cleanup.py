@@ -112,6 +112,8 @@ def convertunit(elem, factor):
     convertunitattrib(elem,"error",factor)
     convertunitattrib(elem,"errorplus",factor)
     convertunitattrib(elem,"errorminus",factor)
+    convertunitattrib(elem,"ep",factor)
+    convertunitattrib(elem,"em",factor)
     convertunitattrib(elem,"upperlimit",factor)
     convertunitattrib(elem,"lowerlimit",factor)
 
