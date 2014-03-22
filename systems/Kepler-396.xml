@@ -26,6 +26,7 @@
 			<lastupdate>13/08/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+			<istransiting>1</istransiting>
 		</planet>
 		<planet>
 			<name>Kepler-396 b</name>
@@ -43,6 +44,7 @@
 			<lastupdate>13/08/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+			<istransiting>1</istransiting>
 		</planet>
 	</star>
 </system>
