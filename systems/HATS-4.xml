@@ -26,7 +26,6 @@
 			<inclination errorminus="0.6" errorplus="0.6">88.5</inclination>
 			<eccentricity errorminus="0.013" errorplus="0.013">0.016</eccentricity>
 			<description>HATS-4 is a dense transiting planet orbiting around a high-metallicity star discovered by the HATSouth survey.</description>
-			<new>1</new>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/02/26</lastupdate>
 			<discoveryyear>2014</discoveryyear>
