@@ -23,6 +23,7 @@
 			<name>mu Leonis b</name>
 			<name>Rasalas b</name>
 			<name>Alshemali b</name>
+			<new>1</new>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.4" errorplus="0.4">2.4</mass>
 			<period errorminus="1.2" errorplus="1.2">357.8</period>

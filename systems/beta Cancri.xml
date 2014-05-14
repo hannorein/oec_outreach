@@ -21,6 +21,7 @@
 			<mass errorminus="0.8" errorplus="0.8">7.8</mass>
 			<period errorminus="4" errorplus="4">605.2</period>
 			<semimajoraxis errorminus="0.1" errorplus="0.1">1.7</semimajoraxis>
+			<new>1</new>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.08</eccentricity>
 			<periastron errorminus="5.9" errorplus="5.9">58.9</periastron>
 			<description>The planet beta Cancri b is orbiting the brighest star in the constellation Cancer once everry 600 days. It was found using data from 10, collected with the Bohyunsan Observatory.</description>
