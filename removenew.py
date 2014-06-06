@@ -63,8 +63,8 @@ for filename in glob.glob("systems*/*.xml"):
 
     for planet in planets:
         newtags = planet.findall(".//new")
-	for newtag in newtags:
-		planet.remove(newtag)
+        for newtag in newtags:
+            planet.remove(newtag)
 
     # Cleanup XML
     indent(root)
