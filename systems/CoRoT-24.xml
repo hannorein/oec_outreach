@@ -30,7 +30,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/06/08</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<new>1</new>
 		</planet>
 		<planet>
 			<name>CoRoT-24 c</name>
@@ -49,7 +48,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/06/08</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<new>1</new>
 		</planet>
 	</star>
 </system>
