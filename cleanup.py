@@ -5,6 +5,10 @@ import os
 import hashlib
 import sys
 import datetime
+import re
+
+num_format = re.compile(r'^\-?[0-9]*\.?[0-9]*e?[\-\+]?[0-9]?[0-9]?$')
+
 
 # Variables to keep track of progress
 fileschecked = 0
@@ -92,9 +96,24 @@ validattributes = [
     "type"]
 validdiscoverymethods = ["RV", "transit", "timing", "imaging", "microlensing"]
 tagsallowmultiple = ["list","name","planet","star","binary","satellite"]
+numerictags = ["mass", "radius", "ascnedingnode", "discoveryyear", "semimajoraxis", "period",
+    "magV", "magJ", "magH", "magR", "magB", "magK", "magI", "distance", "longitude", "age",
+    "metallicity", "inclination", "periastron", "eccentricity", "temperature", "transittime",
+    "spinorbitalignment"]
+numericattributes = ["error", "errorplus", "errorminus", "upperlimit", "lowerlimit"]
+nonzeroattributes = ["error", "errorplus", "errorminus"]
 
 def checkforvalidtags(elem):
     problematictag = None
+    if elem.tag in numerictags:
+        if elem.text:
+            if not re.match(num_format,elem.text):
+                return elem.tag
+        deleteattribs = []
+        for a in elem.attrib:
+            if a in numericattributes:
+                if not re.match(num_format,elem.attrib[a]):
+                    return elem.tag
     for child in elem:
         _tmp = checkforvalidtags(child)
         if _tmp:
@@ -105,6 +124,34 @@ def checkforvalidtags(elem):
         if a not in validattributes:
             return a
     return problematictag
+
+def checkforvaliderrors(elem):
+    problematictag = None
+    if elem.tag in numerictags:
+        deleteattribs = []
+        for a in elem.attrib:
+            if a in nonzeroattributes:
+                try:
+                    if len(elem.attrib[a])==0 or float(elem.attrib[a])==0.:
+                        deleteattribs.append(a)
+                except:
+                    print "Warning: problem reading error bars in tag "+elem.tag
+                    return 1
+        for a in deleteattribs:
+            print "Warning: deleting error bars with value 0 in tag "+elem.tag
+            del elem.attrib[a]
+        if "errorplus" in elem.attrib:
+            if not "errorminus" in elem.attrib:
+                print "Warning: one sided error found in tag "+elem.tag+". Fixing it."
+                elem.attrib["errorminus"] = elem.attrib["errorplus"]
+        if "errorminus" in elem.attrib:
+            if not "errorplus" in elem.attrib:
+                print "Warning: one sided error found in tag "+elem.tag+". Fixing it."
+                elem.attrib["errorplus"] = elem.attrib["errorminus"]
+    for child in elem:
+        if checkforvaliderrors(child):
+            return 1
+    return 0
 
 
 # Convert units (makes data entry easier)
@@ -241,6 +288,9 @@ for filename in glob.glob("systems*/*.xml"):
             issues += 1
 
     # Check if tags are valid and have valid attributes
+    if checkforvaliderrors(root):
+        print "Problematic errorbar in in file \"" + filename + "\"."
+
     problematictag = checkforvalidtags(root)
     if problematictag:
         print "Problematic tag/attribute '" + problematictag + "' found in file \"" + filename + "\"."
