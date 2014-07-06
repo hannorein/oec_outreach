@@ -29,6 +29,7 @@
 			<period errorminus="1.5" errorplus="1.5">403.5</period>
 			<mass errorminus="0.13" errorplus="0.13">2.55</mass>
 			<discoverymethod>RV</discoverymethod>
+			<new>1</new>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/07/05</lastupdate>
 		</planet>
@@ -46,6 +47,7 @@
 			<period errorminus="3.8" errorplus="3.8">751.9</period>
 			<mass errorminus="0.18" errorplus="0.18">3.32</mass>
 			<discoverymethod>RV</discoverymethod>
+			<new>1</new>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/07/05</lastupdate>
 			<description>The planetary system eta Ceti contains at least two planets. The planets are in, or at least close, to a 2:1 mean motion resonance. Such resonances occur naturally as a consequence of convergent planetary migration.</description>
