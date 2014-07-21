@@ -28,6 +28,7 @@
 			<description>Kepler-421 b is an Uranus-sized exoplanet. The planet's location is beyond the snow-line, indicating that the planet may have formed at its observed location. Only two transits of Kepler-421 b have been recorded during Kepler's lifetime. The planetetary nature of the signal was confirmed using a statistical analysis and lightcurve modeling.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<new>1</new>
 			<lastupdate>14/07/21</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
