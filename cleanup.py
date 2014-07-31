@@ -86,6 +86,8 @@ validtags = [
     "metallicity", "inclination", "spectraltype", "binary", "planet", "periastron", "star",
     "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", "spinorbitalignment",
     "satellite", "tilt", "istransiting"]
+    "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", 
+    "spinorbitalignment", "satellite", "tilt", "istransiting", "separation", "positionangle"]
 validattributes = [
     "error",
     "errorplus",
@@ -95,7 +97,7 @@ validattributes = [
     "lowerlimit",
     "type"]
 validdiscoverymethods = ["RV", "transit", "timing", "imaging", "microlensing"]
-tagsallowmultiple = ["list","name","planet","star","binary","satellite"]
+tagsallowmultiple = ["list", "name","planet","star","binary","satellite", "separation"]
 numerictags = ["mass", "radius", "ascnedingnode", "discoveryyear", "semimajoraxis", "period",
     "magV", "magJ", "magH", "magR", "magB", "magK", "magI", "distance", "longitude", "age",
     "metallicity", "inclination", "periastron", "eccentricity", "temperature", "transittime",
