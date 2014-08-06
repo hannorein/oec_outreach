@@ -28,6 +28,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<description>The transiting exoplanet WASP-106 b is just slightly larger than Jupiter. The orbital solution is consistent with zero eccentricity, which is interesting because many other similar planets are known to have eccentric orbits. The planet was discovered by the WASP survey.</description>
 			<istransiting>1</istransiting>
+			<new>1</new>
 			<lastupdate>14/08/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>

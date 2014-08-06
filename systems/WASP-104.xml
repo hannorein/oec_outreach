@@ -27,6 +27,7 @@
 			<inclination errorminus="0.25" errorplus="0.25">83.63</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<new>1</new>
 			<description>The transiting exoplanet WASP-104 b is just slightly larger than Jupiter. It was discovered by the WASP survey.</description>
 			<lastupdate>14/08/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
