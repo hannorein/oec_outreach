@@ -81,7 +81,7 @@ def removeemptytags(elem):
 validtags = [
     "system", "name", "new", "description", "ascendingnode", "discoveryyear",
     "lastupdate", "list", "discoverymethod", "semimajoraxis", "period", "magV", "magJ",
-    "magH", "magR", "magB", "magK", "magI", "distance",
+    "magH", "magR", "magB", "magK", "magI", "magU", "distance",
     "longitude", "imagedescription", "image", "age", "declination", "rightascension",
     "metallicity", "inclination", "spectraltype", "binary", "planet", "periastron", "star",
     "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", "spinorbitalignment",
@@ -99,9 +99,9 @@ validattributes = [
 validdiscoverymethods = ["RV", "transit", "timing", "imaging", "microlensing"]
 tagsallowmultiple = ["list", "name","planet","star","binary","satellite", "separation"]
 numerictags = ["mass", "radius", "ascnedingnode", "discoveryyear", "semimajoraxis", "period",
-    "magV", "magJ", "magH", "magR", "magB", "magK", "magI", "distance", "longitude", "age",
+    "magV", "magJ", "magH", "magR", "magB", "magK", "magI", "magU", "distance", "longitude", "age",
     "metallicity", "inclination", "periastron", "eccentricity", "temperature", "transittime",
-    "spinorbitalignment"]
+    "spinorbitalignment", "separation", "positionangle"]
 numericattributes = ["error", "errorplus", "errorminus", "upperlimit", "lowerlimit"]
 nonzeroattributes = ["error", "errorplus", "errorminus"]
 
