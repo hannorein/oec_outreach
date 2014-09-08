@@ -39,6 +39,7 @@
 			<description>The circum-binary planet KIC 9632895b was discovered in the Kepler dataset. It orbits stellar binary every 240 days. The stars themselves have an orbital period of 27 days. The preciession period id 103 years. During that cycle, only 8 percent of the transits are visible.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<new>1</new>
 			<lastupdate>14/09/08</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<list>Planets in binary systems, P-type</list>
