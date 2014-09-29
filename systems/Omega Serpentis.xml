@@ -1,0 +1,47 @@
+<system>
+	<name>Omega Serpentis</name>
+	<name>ome Ser</name>
+	<name>ome Serpentis</name>
+	<name>HR 5888</name>
+	<name>HD 141680</name>
+	<name>HIP 77578</name>
+	<rightascension>15 50 17.55</rightascension>
+	<declination>+02 11 47.44</declination>
+	<distance>83.8</distance>
+	<star>
+		<magB>6.239</magB>
+		<magV>5.230</magV>
+		<magJ errorminus="0.01" errorplus="0.01">3.461</magJ>
+		<magH errorminus="0.01" errorplus="0.01">2.955</magH>
+		<magK errorminus="0.01" errorplus="0.01">2.838</magK>
+		<name>Omega Serpentis</name>
+		<name>ome Ser</name>
+		<name>ome Serpentis</name>
+		<name>HR 5888</name>
+		<name>HD 141680</name>
+		<name>HIP 77578</name>
+		<mass>2.17</mass>
+		<radius>12.30</radius>
+		<temperature>4770</temperature>
+		<metallicity>-0.24</metallicity>
+		<spectraltype>G8III</spectraltype>
+		<planet>
+			<name>Omega Serpentis b</name>
+			<name>ome Ser b</name>
+			<name>ome Serpentis b</name>
+			<name>HR 5888 b</name>
+			<name>HD 141680 b</name>
+			<name>HIP 77578 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.7</mass>
+			<period>277.02</period>
+			<semimajoraxis>1.1</semimajoraxis>
+			<eccentricity>0.106</eccentricity>
+			<periastron>132</periastron>
+			<description>The exoplanet Omega Serpentis b is orbiting a star in the northern constellation Serpens. It was discovered using the radial velocity method. The measurements were taken at the Okaya Astrophysical Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>13/04/17</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>
