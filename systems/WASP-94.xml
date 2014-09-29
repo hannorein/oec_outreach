@@ -27,6 +27,7 @@
 				<eccentricity upperlimit="0.13" />
 				<inclination errorminus="0.7" errorplus="0.7">88.7</inclination>
 				<spinorbitalignment errorminus="20" errorplus="20">151</spinorbitalignment>
+				<new>1</new>
 				<description>WASP-94 A b is a Hot Jupiter orbiting an F-star in a binary system. The other binary component WASP-94 B also hosts a Hot Jupiter, making this system an ideal test-bed to explore planet formation scenarios. The planet's orbit is misaligned with the host star rotation axis.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
@@ -56,6 +57,7 @@
 				<discoverymethod>RV</discoverymethod>
 				<istransiting>1</istransiting>
 				<lastupdate>14/09/29</lastupdate>
+				<new>1</new>
 				<discoveryyear>2014</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
