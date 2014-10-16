@@ -31,7 +31,6 @@
 			<eccentricity upperlimit="0.22" />
 			<inclination errorminus="0.43" errorplus="0.43">89.36</inclination>
 			<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
-			<new>1</new>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>14/10/02</lastupdate>
