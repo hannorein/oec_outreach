@@ -392,5 +392,19 @@
 				<period>6.387</period>
 			</satellite>
 		</planet>
+		<asteroid>
+			<name>Churyumov-Gerasimenko</name>
+			<name>67P/Churyumov-Gerasimenko</name>
+			<name>67P/C-G</name>
+			<period>2352.1598</period>
+			<semimajoraxis>3.4630</semimajoraxis>
+			<eccentricity>0.64102</eccentricity>
+			<longitude>303.71</longitude>
+			<inclination>7.0405</inclination>
+			<ascendingnode>50.147</ascendingnode>
+			<periastron>12.780</periastron>
+			<mass>5.2654396e-15</mass>
+			<radius>6.2221968e-05</radius>
+		</asteroid>
 	</star>
 </system>
