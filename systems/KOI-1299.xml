@@ -27,9 +27,10 @@
 			<eccentricity errorminus="0.030" errorplus="0.030">0.535</eccentricity>
 			<inclination errorminus="1.3" errorplus="1.3">88.9</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/10/14</lastupdate>
+			<lastupdate>14/10/20</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<new>1</new>
 		</planet>
 	</star>
 </system>
