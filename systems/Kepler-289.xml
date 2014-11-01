@@ -45,6 +45,7 @@
 			<list>Confirmed planets</list>
 			<description>Although this system was previously known that the system hosts at least two planets, the third planet, PH3 c was first spotted by citizen scientists using the Planet Hunters website.</description>
 			<discoveryyear>2014</discoveryyear>
+			<new>1</new>
 			<lastupdate>14/11/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
