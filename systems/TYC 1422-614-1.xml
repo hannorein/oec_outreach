@@ -30,7 +30,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/10/22</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<new>1</new>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -46,7 +45,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/10/22</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<new>1</new>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

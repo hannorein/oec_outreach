@@ -33,6 +33,7 @@
 			<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/19</lastupdate>
+			<new>1</new>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

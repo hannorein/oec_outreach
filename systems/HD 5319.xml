@@ -54,6 +54,7 @@
 			<eccentricity errorminus="0.06" errorplus="0.06">0.15</eccentricity>
 			<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
 			<discoverymethod>RV</discoverymethod>
+			<new>1</new>
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
