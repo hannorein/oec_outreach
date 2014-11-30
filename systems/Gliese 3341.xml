@@ -37,6 +37,7 @@
 			<semimajoraxis>0.089</semimajoraxis>
 			<eccentricity errorminus="0.11" errorplus="0.11">0.31</eccentricity>
 			<istransiting>0</istransiting>
+			<new>1</new>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
