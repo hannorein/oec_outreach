@@ -35,7 +35,6 @@
 			<semimajoraxis>0.1434</semimajoraxis>
 			<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
 			<istransiting>0</istransiting>
-			<new>1</new>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
@@ -54,7 +53,6 @@
 			<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 			<semimajoraxis>0.3644</semimajoraxis>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.37</eccentricity>
-			<new>1</new>
 			<istransiting>0</istransiting>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/25</lastupdate>
@@ -75,7 +73,6 @@
 			<semimajoraxis>0.1939</semimajoraxis>
 			<eccentricity errorminus="0.16" errorplus="0.16">0.13</eccentricity>
 			<istransiting>0</istransiting>
-			<new>1</new>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
