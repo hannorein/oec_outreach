@@ -39,6 +39,7 @@
 			<eccentricity errorminus="0.072" errorplus="0.072">0.205</eccentricity>
 			<inclination errorminus="0.4" errorplus="0.4">88.43</inclination>
 			<periastron errorminus="16.7" errorplus="16.7">-59.1</periastron>
+			<new>1</new>
 			<description>HIP 116454 b is the first planet discovered by the Kepler spacecraft during its extended K2 mission. The planet is about two and a half times the size of Earth and only 55.2 parsec away. This makes it a top target for follow-up observations.</description>
 			<transittime errorminus="0.03" errorplus="0.03" unit="BJD">2456907.89</transittime>
 			<discoverymethod>transit</discoverymethod>
