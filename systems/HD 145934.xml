@@ -16,7 +16,6 @@
 			<semimajoraxis errorminus="0.14" errorplus="0.14">4.6</semimajoraxis>
 			<eccentricity errorminus="0.063" errorplus="0.053">0.053</eccentricity>
 			<periastron errorminus="62" errorplus="62">215</periastron>
-			<new>1</new>
 			<description>This 2 Jupiter mass planet is in a 7.5 year orbit around a giant star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<istransiting>1</istransiting>
