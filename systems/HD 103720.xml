@@ -19,6 +19,7 @@
 			<period errorminus="0.0001" errorplus="0.0001">4.5557</period>
 			<mass>0.62</mass>
 			<list>Confirmed Planets</list>&gt;
+			<new>1</new>
                         <discoverymethod>RV</discoverymethod>
 			<description>HD 103720 is a very young star orbited by a giant Jupiter planet.</description>
 			<discoveryyear>2014</discoveryyear>

@@ -19,6 +19,7 @@
 			<period errorminus="61" errorplus="61">1684</period>
 			<mass errorminus="0.06" errorplus="0.06">0.47</mass>
 			<list>Confirmed Planets</list>
+			<new>1</new>
 			<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
