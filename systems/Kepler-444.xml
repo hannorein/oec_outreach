@@ -30,6 +30,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/02/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>Kepler-444 c</name>
@@ -47,6 +48,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/02/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>Kepler-444 d</name>
@@ -64,6 +66,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/02/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>Kepler-444 e</name>
@@ -81,6 +84,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/02/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>Kepler-444 f</name>
@@ -98,6 +102,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/02/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 	</star>
 </system>
