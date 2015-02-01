@@ -334,6 +334,16 @@ for filename in glob.glob("systems*/*.xml"):
                 print "Error: Invalid list \"" + l.text + "\" in file \"" + filename + "\"."
                 issues += 1
 
+    # Check if each planet is in at least one list
+    oneListOf = ["Confirmed planets", "Controversial", "Kepler Objects of Interest","Solar System", "Retracted planet candidate"]
+    for p in planets:
+        isInList = 0
+        for l in p.findall("./list"):
+            if l.text in oneListOf:
+                isInList += 1
+        if isInList!=1:
+            print "Error: Planet needs to be in exactly one of the following lists: '" +"', '".join(oneListOf)+"'. Check planets in file \"" + filename + "\"."
+            issues += 1
 
 
     # Check transiting planets
