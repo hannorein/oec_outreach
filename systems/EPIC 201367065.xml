@@ -30,7 +30,6 @@
 			<temperature errorminus="17" errorplus="17">507</temperature>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
-			<new>1</new>
 			<istransiting>1</istransiting>
 			<lastupdate>15/03/26</lastupdate>
 			<discoveryyear>2015</discoveryyear>
@@ -50,7 +49,6 @@
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<new>1</new>
 			<lastupdate>15/03/26</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
