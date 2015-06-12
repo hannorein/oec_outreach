@@ -31,6 +31,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/06/03</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
