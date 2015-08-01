@@ -45,6 +45,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/07/30</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>HD 219134 c</name>
@@ -66,6 +67,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/07/30</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>HD 219134 d</name>
@@ -85,6 +87,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/07/30</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>HD 219134 e</name>
@@ -104,6 +107,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/07/30</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<new>1</new>
 		</planet>
 	</star>
 </system>
