@@ -45,7 +45,6 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/08/10</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-			<new>1</new>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -62,7 +61,6 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/08/10</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-			<new>1</new>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-47</name>
