@@ -44,6 +44,7 @@
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
+				<new>1</new>
 			</planet>
 		</star>
 		<binary>
