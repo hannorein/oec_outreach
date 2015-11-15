@@ -20,7 +20,6 @@
 			<description>GJ 1132b is orbiting a red dwarf star. The planet is three times closer to Earth than any other rocky exoplanet. Although the planet is not habitable, it is expected to be cool enough to hold on to an atmosphere. Because of its proximity to Earth, it might be possible to determine the composition of the atmosphere in the future.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<new>1</new>
 			<lastupdate>15/11/12</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
