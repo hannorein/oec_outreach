@@ -85,7 +85,7 @@ validtags = [
     "longitude", "imagedescription", "image", "age", "declination", "rightascension",
     "metallicity", "inclination", "spectraltype", "binary", "planet", "periastron", "star",
     "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", "spinorbitalignment",
-    "satellite", "tilt", "istransiting"]
+    "satellite", "tilt", "istransiting",
     "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", 
     "spinorbitalignment", "satellite", "tilt", "istransiting", "separation", "positionangle", "periastrontime",
     "meananomaly", "maximumrvtime"]

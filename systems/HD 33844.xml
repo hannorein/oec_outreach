@@ -34,6 +34,7 @@
 			<description>The HD 33844 system consists of a pair of super-jovian planets in or close to the 3:5 resonance orbiting a red giant star.</description>
 			<lastupdate>15/12/28</lastupdate>
 			<list>Confirmed planets</list>
+			<new>1</new>
 		</planet>
 		<planet>
 			<name>HD 33844 c</name>
@@ -48,6 +49,7 @@
 			<description>The HD 33844 system consists of a pair of super-jovian planets in or close to the 3:5 resonance orbiting a red giant star.</description>
 			<lastupdate>15/12/28</lastupdate>
 			<list>Confirmed planets</list>
+			<new>1</new>
 		</planet>
 	</star>
 </system>

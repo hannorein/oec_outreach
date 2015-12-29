@@ -17,6 +17,7 @@
 			<description>Because of degeneracies involved in modelling the microlensing event MOA-2013-BLG-605, there are three possible models for the lens system. In the first, a 21 Earth-mass planet orbits a 0.19 solar mass star at a distance of 4.2 AU. This would make the planet a Neptune-analogue. In the second, a 7.9 Earth-mass planet orbits a 71 Jupiter-mass brown dwarf at 2.1 AU, and in the third a 3.2 Earth-mass planet orbits a 26 Jupiter-mass brown dwarf at 0.94 AU. Future observations taken when the lens system has moved sufficiently far away from the source star will be able to determine whether the stellar model is the correct one.</description>
 			<lastupdate>15/12/11</lastupdate>
 			<list>Confirmed planets</list>
+			<new>1</new>
 		</planet>
 	</star>
 </system>
