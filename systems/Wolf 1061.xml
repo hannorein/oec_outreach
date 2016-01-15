@@ -37,7 +37,6 @@
 			<description>Wolf 1061 b is the innermost planet in a system of super-Earths located 14 light years from the solar system. It has a minimum mass of 1.36 Earth masses.</description>
 			<lastupdate>15/12/27</lastupdate>
 			<list>Confirmed planets</list>
-			<new>1</new>
 		</planet>
 		<planet>
 			<name>Wolf 1061 c</name>
@@ -52,7 +51,6 @@
 			<description>Wolf 1061 c is a planet with a minimum mass of 4.25 Earth masses located near the inner edge of its host star's habitable zone. It is the middle planet of a system of super-Earths located 14 light years from the solar system.</description>
 			<lastupdate>15/12/27</lastupdate>
 			<list>Confirmed planets</list>
-			<new>1</new>
 		</planet>
 		<planet>
 			<name>Wolf 1061 d</name>
@@ -67,7 +65,6 @@
 			<description>Wolf 1061 d is a planet with a minimum mass of 5.21 Earth masses located slightly beyond the outer edge of its host star's habitable zone. It is the outermost planet of a system of super-Earths located 14 light years from the solar system.</description>
 			<lastupdate>15/12/27</lastupdate>
 			<list>Confirmed planets</list>
-			<new>1</new>
 		</planet>
 	</star>
 </system>

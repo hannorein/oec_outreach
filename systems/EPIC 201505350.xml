@@ -34,7 +34,6 @@
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<new>1</new>
 			<lastupdate>15/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
@@ -56,7 +55,6 @@
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<new>1</new>
 			<lastupdate>15/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
@@ -71,7 +69,6 @@
 			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0344</semimajoraxis>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
-			<new>1</new>
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/12/06</lastupdate>
 		</planet>
