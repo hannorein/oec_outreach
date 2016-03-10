@@ -88,7 +88,7 @@ validtags = [
     "satellite", "tilt", "istransiting",
     "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", 
     "spinorbitalignment", "satellite", "tilt", "istransiting", "separation", "positionangle", "periastrontime",
-    "meananomaly", "maximumrvtime"]
+    "meananomaly", "maximumrvtime", "impactparameter"]
 validattributes = [
     "error",
     "errorplus",
@@ -114,7 +114,7 @@ numerictags = ["mass", "radius", "ascnedingnode", "discoveryyear", "semimajoraxi
     "magV", "magJ", "magH", "magR", "magB", "magK", "magI", "magU", "distance", "longitude", "age",
     "metallicity", "inclination", "periastron", "eccentricity", "temperature", "transittime",
     "spinorbitalignment", "separation", "positionangle", "periastrontime", "meananomaly",
-    "maximumrvtime", "ascendingnode"]
+    "maximumrvtime", "ascendingnode", "impactparameter"]
 numericattributes = ["error", "errorplus", "errorminus", "upperlimit", "lowerlimit"]
 nonzeroattributes = ["error", "errorplus", "errorminus"]
 
