@@ -1,12 +1,13 @@
 <system>
 	<name>38 Vir</name>
-	<rightascension>12 53 11</rightascension>
-	<declination>-03 26 49</declination>
+	<rightascension>12 53 11.16</rightascension>
+	<declination>-03 33 11.2</declination>
 	<star>
 		<name>38 Vir</name>
 		<age>1.9</age>
 		<radius>1.45</radius>
 		<mass>1.18</mass>
+		<magV>6.11</magV>
 		<spectraltype>F6 V</spectraltype>
 		<temperature>6557.0</temperature>
 		<metallicity>0.07</metallicity>
