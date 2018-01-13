@@ -7,7 +7,12 @@ import sys
 import datetime
 import re
 
-num_format = re.compile(r'^\-?[0-9]*\.?[0-9]*e?[\-\+]?[0-9]?[0-9]?$')
+# Regex for valid numbers
+num_format = re.compile(r'''^(?![eE])           # match cannot start with [eE]
+                            (-(?=[0-9.]))?      # - (if present) must be followed by digits or dot
+                            [0-9]*(\.[0-9]+)?   # int/floating point digits
+                            ([eE][-+]?[0-9]+)?  # exponent notation
+                            $''', re.VERBOSE)   # match must end string, and multi-line format flag
 
 
 # Variables to keep track of progress
@@ -110,7 +115,7 @@ validlists = [
     "Planets in globular clusters"]
 validdiscoverymethods = ["RV", "transit", "timing", "imaging", "microlensing"]
 tagsallowmultiple = ["list", "name","planet","star","binary","satellite", "separation"]
-numerictags = ["mass", "radius", "ascnedingnode", "discoveryyear", "semimajoraxis", "period",
+numerictags = ["mass", "radius", "ascendingnode", "discoveryyear", "semimajoraxis", "period",
     "magV", "magJ", "magH", "magR", "magB", "magK", "magI", "magU", "distance", "longitude", "age",
     "metallicity", "inclination", "periastron", "eccentricity", "temperature", "transittime",
     "spinorbitalignment", "separation", "positionangle", "periastrontime", "meananomaly",
@@ -270,6 +275,7 @@ for filename in glob.glob("systems*/*.xml"):
         del elem.attrib["range"]
         print "Converted range to errorbars in tag '" + elem.tag + "'."
 
+<<<<<<< HEAD
     # Convert units to default units
     for mass in root.findall(".//mass[@unit='me']"):
         convertunit(mass, 0.0031457007)
@@ -279,6 +285,13 @@ for filename in glob.glob("systems*/*.xml"):
         convertunit(radius, 1.4303901e-05)
     for semimajoraxis in root.findall(".//satellite/semimajoraxis[@unit='km']"):
         convertunit(semimajoraxis, 6.6845871e-09)
+=======
+        # Convert units to default units
+    for mass in root.findall(".//planet/mass[@unit='me']"):
+        convertunit(mass, 0.0031463518)
+    for radius in root.findall(".//planet/radius[@unit='re']"):
+        convertunit(radius, 0.089214178)
+>>>>>>> oec/master
     for angle in root.findall(".//*[@unit='rad']"):
         convertunit(angle, 57.2957795130823)
 
