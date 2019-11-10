@@ -88,7 +88,7 @@ validtags = [
     "lastupdate", "list", "discoverymethod", "semimajoraxis", "period", "magV", "magJ",
     "magH", "magR", "magB", "magK", "magI", "magU", "distance",
     "longitude", "imagedescription", "image", "age", "declination", "rightascension",
-    "metallicity", "inclination", "spectraltype", "binary", "planet", "periastron", "star",
+    "metallicity", "inclination", "spectraltype", "binary", "planet", "asteroid", "periastron", "star",
     "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", "spinorbitalignment",
     "satellite", "tilt", "istransiting",
     "mass", "eccentricity", "radius", "temperature", "videolink", "transittime", 
@@ -113,7 +113,7 @@ validlists = [
     "Retracted planet candidate",
     "Planets in open clusters",
     "Planets in globular clusters"]
-validdiscoverymethods = ["RV", "transit", "timing", "imaging", "microlensing"]
+validdiscoverymethods = ["RV", "transit", "timing", "imaging", "microlensing", "astrometry"]
 tagsallowmultiple = ["list", "name","planet","star","binary","satellite", "separation"]
 numerictags = ["mass", "radius", "ascendingnode", "discoveryyear", "semimajoraxis", "period",
     "magV", "magJ", "magH", "magR", "magB", "magK", "magI", "magU", "distance", "longitude", "age",
@@ -275,7 +275,6 @@ for filename in glob.glob("systems*/*.xml"):
         del elem.attrib["range"]
         print "Converted range to errorbars in tag '" + elem.tag + "'."
 
-<<<<<<< HEAD
     # Convert units to default units
     for mass in root.findall(".//mass[@unit='me']"):
         convertunit(mass, 0.0031457007)
@@ -285,13 +284,6 @@ for filename in glob.glob("systems*/*.xml"):
         convertunit(radius, 1.4303901e-05)
     for semimajoraxis in root.findall(".//satellite/semimajoraxis[@unit='km']"):
         convertunit(semimajoraxis, 6.6845871e-09)
-=======
-        # Convert units to default units
-    for mass in root.findall(".//planet/mass[@unit='me']"):
-        convertunit(mass, 0.0031463518)
-    for radius in root.findall(".//planet/radius[@unit='re']"):
-        convertunit(radius, 0.089214178)
->>>>>>> oec/master
     for angle in root.findall(".//*[@unit='rad']"):
         convertunit(angle, 57.2957795130823)
 
@@ -339,11 +331,11 @@ for filename in glob.glob("systems*/*.xml"):
                     issues += 1
                 else:
                     uniquetags.append(child.tag)
-    
+
     # Check binary planet lists
     checkForBinaryPlanet(root, ".//binary/planet", "Planets in binary systems, P-type")
     checkForBinaryPlanet(root, ".//binary/star/planet", "Planets in binary systems, S-type")
-    
+
     # Check for valid list names
     lists = root.findall(".//list")
     for l in lists:
