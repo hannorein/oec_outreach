@@ -1,12 +1,12 @@
 Open Exoplanet Catalogue
 ==============
 
-Status update
+Repository Archived
 --------------
-As you might have noticed the Open Exoplanet Catalogue has been in a a dormant state for a few months, recieving only a few updates. This is mainly due to a lack of contributors. In the fall, we plan to have about 100 undegraduates in computer science work on the OEC. Their main goal will be to implement an automated way to gather data from various sources on the internet. We will keep the data fully referenced so that it is easy to find out where the data is coming from. We will also allow for manual edits of the accumulated data (as it has been in the past). All of these things together should make the OEC the most complete and most up-to-date exoplanet catalogue out there. In the meantime, please keep your pull request coming! -- Hanno Rein -- June 2016. 
+This repository is no longer maintained. All data is now part of the main [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue).
 
+Hanno Rein - June 2020
 
-About the Open Exoplanet Catalogue
 --------------
 
 [![Travis](http://img.shields.io/travis/OpenExoplanetCatalogue/open_exoplanet_catalogue/master.svg?style=flat)](https://travis-ci.org/OpenExoplanetCatalogue/open_exoplanet_catalogue/)
